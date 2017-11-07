@@ -24,12 +24,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Timezone
- timezone: Europe/Stockholm	
-
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman-blog
 plugins:
   - jekyll-feed
 
