@@ -15,8 +15,10 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  background-image: url("../pics/board.jpg");
+  background-position:center;
+  background-size: cover;
   color: $text-color;
-  background-color: $background-color;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -24,8 +26,6 @@ body {
           font-feature-settings: "kern" 1;
   font-kerning: normal;
 }
-
-
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
