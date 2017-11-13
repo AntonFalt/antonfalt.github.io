@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Antons webbsida
+title: Anton's 1dv022-blog
 email: af222br@sudent.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
   I will use this page to submit my assignments for the 1dv022-course.
@@ -28,6 +28,12 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: AntonFalt
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

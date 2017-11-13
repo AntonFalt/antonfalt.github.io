@@ -26,7 +26,7 @@ categories: jekyll update
 
 3. What do you think of static site generators?
 
-I consider them to be great tools if the goal is to have a website that is rather simple, easy to maintain, stable and secure. For this project I used Jekyll that once it was up and running, was very efficient for me to use.
+   I consider them to be great tools if the goal is to have a website that is rather simple, easy to maintain, stable and secure. For this project I used Jekyll that once it was up and running, was very efficient for me to use.
 
    - What type of projects are they suitable for?
 
@@ -34,11 +34,11 @@ I consider them to be great tools if the goal is to have a website that is rathe
 
 4. What is robots.txt and how have you configure it for your site?
 
-It is basically instructions for search robots and crawlers, what parts of the website that they should have access to. It is standard that before robots start to scan your website the look for the robots.txt in the root of the site. This works well for robots that is programmed to have good intentions, but malware robots and email harvesters will most likely scan the website anyway. As I have nothing to gain on this site being scanned by robots, I simply disallowed all.
+   It is basically instructions for search robots and crawlers, what parts of the website that they should have access to. It is standard that before robots start to scan your website the look for the robots.txt in the root of the site. This works well for robots that is programmed to have good intentions, but malware robots and email harvesters will most likely scan the website anyway. As I have nothing to gain on this site being scanned by robots, I simply disallowed all.
 
 5. What is humans.txt and how have you configure it for your site?
 
-It is a textfile that states the creator of the site and give credidentials to other contributors as well. The purpose of the file is that one can claim authorship of material displayed on the site, without being intrusive with the code. In the humans.txt file for this site a merely stated my authorship and provided an email adress.
+   It is a textfile that states the creator of the site and give credidentials to other contributors as well. The purpose of the file is that one can claim authorship of material displayed on the site, without being intrusive with the code. In the humans.txt file for this site a merely stated my authorship and provided an email adress.
 
 6. How did you implements comments to blog posts
 
