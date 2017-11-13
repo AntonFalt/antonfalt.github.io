@@ -4,5 +4,7 @@ title:  "First blogpost"
 date:   2017-11-09 16:26:19 -0500
 categories: jekyll update
 ---
-## Markdown
-Testar skriva med markdown
+### Markdown
+
+Apparently markdown is the new way of creating decent HTML, seems legit. 
+By now you might notice that my blog posts are rather short, if that bothers you please send an email to junkmail@hotmail.com.

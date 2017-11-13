@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a 26 year old fella that lives in Växjö and studies computer science at Linneus University.
+To be able to handle my private life i chose to a distance education, which fits me nicely. 
+My main interests are to spend time with my small family (fiancée + dog), friends and gaming.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Since previously I have a bachelor in business administration, also from Linneus University. 
+As I commited to this program as well I guess one could say I enjoy studying and is keen to learn.
+Besides studying right now I also work as an advisor at an insurance company.
+This setup works fine so far as both my work and studies are rather flexible.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My plan for the future is to complete this program and then to work as a programmer.
+As I would be rather comfortable with running a company considering my background within economics,
+it is possible that I would at some point start my own business. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+Time will tell, but I believe that there are exiting times ahead!
