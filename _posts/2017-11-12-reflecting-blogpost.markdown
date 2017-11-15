@@ -40,6 +40,11 @@ categories: jekyll update
 
    It is a textfile that states the creator of the site and give credidentials to other contributors as well. The purpose of the file is that one can claim authorship of material displayed on the site, without being intrusive with the code. In the humans.txt file for this site a merely stated my authorship and provided an email adress.
 
-6. How did you implements comments to blog posts
+6. How did you implements comments to blog posts?
+
+   I created an account with disqus because their services are compatible with my site. Then I added a disqus-section in my \_config.yml where I stated my disqus-shortname. Then I used the code provided in the disqus_comments.html from the \_includes-folder. Finally I added a code snippet at the bottom of my post.html to load comments.
+
 
 7. What is Open Graph and how do you make use of it?
+   
+   Open graph is a protocol that explains how a site should looked when shared on a social graph like Facebook or Twitter. To use it you need to include some meta-tags in the head of your site. I used four basic tags, title, url, image and type.
